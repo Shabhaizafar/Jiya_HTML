@@ -1,0 +1,82 @@
+=> Web Development : 
+   ---------------
+->   1. Website.(static)
+     2. WebApp. (Dynamic) (Single Page Application)
+
+Basic : 
+        1. HTML  - Hyper text Markup Language 
+        2. CSS   - Cascading Style Sheet
+        3. JS    - Javascript
+-------------------------------------------------
+Job : 
+1. Frond-end Developer :  
+    - HTML,CSS,JS,React, Bootstrap,TailwindCSS.... etc
+2. Back-end Developer : 
+    - Java,CPP,Python,NodeJs,.net,php ..etc
+
+3. Full-stack Developer : 
+    - Frond-end + Back-end + DB
+
+4. Software Engineer : 
+    - Java Developer 
+    - Python Developer
+
+5. MERN Stack : 
+    M : MongoDB
+    E : ExpressJS
+    R : ReactJs
+    N : NodeJs
+
+6. MEAN Stack : 
+    M : MongoDB
+    E : ExpressJS
+    A : AngularJs
+    N : NodeJs
+
+
+-------------------------------------------------
+=> What is HTML ?
+-> HTML stands for Hyper Text Markup Language.
+
+=> Use : 
+-> Create a Structure of Website.
+    Webpage : Single HTML File.
+    Website : Collection of Multiple Webpages(HTML Files).
+
+-------------------------------------------------
+1) Hyper Text: 
+    - Hyper : Hype  (Link)   (depands on Text)
+    - Text  : Content  (texture,images,videos,etc...)
+2) Markup Language : 
+    - Text encoding System. 
+        ex : Multiplespace : &nbsp;&nbsp;&nbsp; ....
+-------------------------------------------------
+=> History : 
+-> Founder/Developer/CEO : Tim Berner's Lee.
+
+->   HTML 1.0  --> 1991  
+          1.1
+
+->   HTML 2.0  --> 1995
+          2.1
+          2.2
+
+->   HTML 3.0  --> Jan,1997
+
+->   HTML 4.0  --> Dec,1997
+                 -- 2000
+
+
+-> HTML 5.0   --> 2014
+        5.2  -  2017
+-----------------------------------------------------
+Extension : 
+1. .html (New)
+2. .htm  (old)
+
+----------------------------------------------------
+VS Code Extension : 
+1. Live Server. 
+2. Live Preview.
+------------------------------------------------
+Error in HTML : NO 
