@@ -80,3 +80,5 @@ VS Code Extension :
 2. Live Preview.
 ------------------------------------------------
 Error in HTML : NO 
+
+Check Error : https://validator.w3.org/
